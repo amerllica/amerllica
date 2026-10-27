@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="170" viewBox="0 0 560 170" role="img" aria-label="Stack Overflow: 33247 reputation, 476 answers">
+  <style>
+    :root { --bg:#1c1c1c; --line:#2f2f2f; --fg:#e6ffe9; --muted:#8a9a8f; --accent:#00ff66; }
+    @media (prefers-color-scheme: light) { :root { --bg:#f6f8fa; --line:#d0d7de; --fg:#1f2328; --muted:#57606a; --accent:#0b7a3e; } }
+    text { font-family: 'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; fill:var(--fg); }
+    .head { font-size:14px; fill:var(--accent); font-weight:700; }
+    .value { font-size:24px; font-weight:700; fill:var(--accent); }
+    .label { font-size:12px; fill:var(--muted); }
+    .grow { animation: grow 1.2s ease-out both; transform-origin: 0 0; }
+    @keyframes grow { from { opacity:0; transform: translateY(6px); } to { opacity:1; transform:none; } }
+  </style>
+  <rect x="0.5" y="0.5" width="559" height="169" rx="12" fill="var(--bg)" stroke="var(--line)"/>
+  <path d="M28 22h4v14h-4zm7 0h4v14h-4z" fill="#f48024"/>
+  <text x="48" y="34" class="head">stackoverflow.com/users/6877799</text>
+  <g class="grow">
+    
+  <text x="28" y="78" class="value">33,247</text>
+  <text x="28" y="100" class="label">reputation</text>
+    
+  <text x="170" y="78" class="value">476</text>
+  <text x="170" y="100" class="label">answers</text>
+    
+  <text x="280" y="78" class="value">40M+</text>
+  <text x="280" y="100" class="label">people reached</text>
+    
+  <text x="430" y="78" class="value">2016</text>
+  <text x="430" y="100" class="label">member since</text>
+    
+  <circle cx="34" cy="138" r="6" fill="#f1b600"/>
+  <text x="48" y="143" class="label">18 gold</text>
+    
+  <circle cx="124" cy="138" r="6" fill="#9a9b9e"/>
+  <text x="138" y="143" class="label">147 silver</text>
+    
+  <circle cx="220" cy="138" r="6" fill="#ab825f"/>
+  <text x="234" y="143" class="label">171 bronze</text>
+  </g>
+</svg>

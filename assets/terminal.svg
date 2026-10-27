@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="334" viewBox="0 0 860 334" role="img" aria-label="Terminal: whoami prints Amer Lotfi Orimi, Senior Frontend Engineer">
+  <style>
+    :root { --bg:#1c1c1c; --bar:#262626; --line:#2f2f2f; --fg:#e6ffe9; --prompt:#00ff66; --title:#00ff66; --accent:#00ffb3; --muted:#8a9a8f; }
+    @media (prefers-color-scheme: light) {
+      :root { --bg:#f6f8fa; --bar:#eaeef2; --line:#d0d7de; --fg:#1f2328; --prompt:#0b7a3e; --title:#0b7a3e; --accent:#0969da; --muted:#57606a; }
+    }
+    text { font-family: 'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size:15px; fill:var(--fg); }
+    .prompt { fill:var(--prompt); font-weight:700; }
+    .title { fill:var(--title); font-weight:700; }
+    .accent { fill:var(--accent); }
+    .muted { fill:var(--muted); }
+    .bar-title { fill:var(--muted); font-size:12px; }
+    .reveal { opacity:0; animation:show .01s forwards; }
+    .type { animation-name:type; animation-fill-mode:forwards; }
+    .cursor { opacity:0; fill:var(--prompt); animation:show .01s 7.905s forwards, blink 1s steps(1) 7.905s infinite; }
+    @keyframes show { to { opacity:1; } }
+    @keyframes type { to { width:var(--w); } }
+    @keyframes blink { 50% { opacity:0; } }
+  </style>
+  <rect width="860" height="334" rx="12" fill="var(--bg)" stroke="var(--line)"/>
+  <path d="M0 12a12 12 0 0 1 12-12h836a12 12 0 0 1 12 12v24H0z" fill="var(--bar)"/>
+  <circle cx="22" cy="18" r="6" fill="#ff5f57"/><circle cx="42" cy="18" r="6" fill="#febc2e"/><circle cx="62" cy="18" r="6" fill="#28c840"/>
+  <text x="430" y="22" text-anchor="middle" class="bar-title">amerllica — zsh — 86×33</text>
+  
+  <clipPath id="c0"><rect x="186" y="51" height="24" width="0" class="type" style="--w:54px;animation-delay:0.6s;animation-duration:0.33s;animation-timing-function:steps(6)"/></clipPath>
+  <g class="reveal" style="animation-delay:0.6s">
+    <text x="24" y="66" textLength="162" lengthAdjust="spacingAndGlyphs" class="prompt">root@amerllica:~$</text>
+    <text x="186" y="66" textLength="54" lengthAdjust="spacingAndGlyphs" class="command" clip-path="url(#c0)">whoami</text>
+  </g>
+  <text x="24" y="90" textLength="144" lengthAdjust="spacingAndGlyphs" class="out title reveal" style="animation-delay:1.2799999999999998s">Amer Lotfi Orimi</text>
+  <text x="24" y="114" textLength="423" lengthAdjust="spacingAndGlyphs" class="out  reveal" style="animation-delay:1.4s">Senior Frontend Engineer · React / React Native</text>
+  <text x="24" y="138" textLength="513" lengthAdjust="spacingAndGlyphs" class="out  reveal" style="animation-delay:1.52s">Full-Stack with Node.js &amp; NestJS · AI-powered engineering</text>
+  <clipPath id="c4"><rect x="186" y="147" height="24" width="0" class="type" style="--w:117px;animation-delay:1.6400000000000001s;animation-duration:0.715s;animation-timing-function:steps(13)"/></clipPath>
+  <g class="reveal" style="animation-delay:1.6400000000000001s">
+    <text x="24" y="162" textLength="162" lengthAdjust="spacingAndGlyphs" class="prompt">root@amerllica:~$</text>
+    <text x="186" y="162" textLength="117" lengthAdjust="spacingAndGlyphs" class="command" clip-path="url(#c4)">cat ~/now.txt</text>
+  </g>
+  <text x="24" y="186" textLength="477" lengthAdjust="spacingAndGlyphs" class="out accent reveal" style="animation-delay:2.705s">Altex · Tehran, Iran · since 12/2025 · open to remote</text>
+  <clipPath id="c6"><rect x="186" y="195" height="24" width="0" class="type" style="--w:144px;animation-delay:2.825s;animation-duration:0.88s;animation-timing-function:steps(16)"/></clipPath>
+  <g class="reveal" style="animation-delay:2.825s">
+    <text x="24" y="210" textLength="162" lengthAdjust="spacingAndGlyphs" class="prompt">root@amerllica:~$</text>
+    <text x="186" y="210" textLength="144" lengthAdjust="spacingAndGlyphs" class="command" clip-path="url(#c6)">ls ~/open-source</text>
+  </g>
+  <text x="24" y="234" textLength="513" lengthAdjust="spacingAndGlyphs" class="out accent reveal" style="animation-delay:4.055s">rn-vlc-plyr  react-native-tinode  expo-google-tag-manager</text>
+  <clipPath id="c8"><rect x="186" y="243" height="24" width="0" class="type" style="--w:504px;animation-delay:4.175s;animation-duration:3.08s;animation-timing-function:steps(56)"/></clipPath>
+  <g class="reveal" style="animation-delay:4.175s">
+    <text x="24" y="258" textLength="162" lengthAdjust="spacingAndGlyphs" class="prompt">root@amerllica:~$</text>
+    <text x="186" y="258" textLength="504" lengthAdjust="spacingAndGlyphs" class="command" clip-path="url(#c8)">curl -s stackoverflow.com/users/6877799 | jq .reputation</text>
+  </g>
+  <text x="24" y="282" textLength="378" lengthAdjust="spacingAndGlyphs" class="out muted reveal" style="animation-delay:7.605s">33247  # 476 answers · 40M+ people reached</text>
+  <text x="24" y="306" class="prompt reveal" style="animation-delay:7.905s" textLength="153" lengthAdjust="spacingAndGlyphs">root@amerllica:~$</text>
+  <rect x="186" y="293" width="9" height="17" class="cursor"/>
+</svg>
