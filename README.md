@@ -16,9 +16,9 @@ I build fast web and mobile products, ship open-source React Native libraries, a
 [![Medium](https://img.shields.io/badge/Medium-@amerllica-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amerllica)
 
 [![Stack Overflow reputation](https://img.shields.io/stackexchange/stackoverflow/r/6877799?label=Stack%20Overflow&logo=stackoverflow&color=f48024&style=flat-square)](https://stackoverflow.com/users/6877799/amerllica)
-[![rn-vlc-plyr downloads](https://img.shields.io/npm/dm/rn-vlc-plyr?label=rn-vlc-plyr&logo=npm&color=cb3837&style=flat-square)](https://www.npmjs.com/package/rn-vlc-plyr)
-[![react-native-tinode downloads](https://img.shields.io/npm/dm/react-native-tinode?label=react-native-tinode&logo=npm&color=cb3837&style=flat-square)](https://www.npmjs.com/package/react-native-tinode)
-[![expo-google-tag-manager downloads](https://img.shields.io/npm/dm/expo-google-tag-manager?label=expo-google-tag-manager&logo=npm&color=cb3837&style=flat-square)](https://www.npmjs.com/package/expo-google-tag-manager)
+[![rn-vlc-plyr downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.npmjs.org%2Fdownloads%2Fpoint%2F2020-01-01%3A2030-01-01%2Frn-vlc-plyr&query=%24.downloads&label=rn-vlc-plyr&suffix=%20downloads&logo=npm&color=cb3837&style=flat-square)](https://www.npmjs.com/package/rn-vlc-plyr)
+[![react-native-tinode downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.npmjs.org%2Fdownloads%2Fpoint%2F2020-01-01%3A2030-01-01%2Freact-native-tinode&query=%24.downloads&label=react-native-tinode&suffix=%20downloads&logo=npm&color=cb3837&style=flat-square)](https://www.npmjs.com/package/react-native-tinode)
+[![expo-google-tag-manager downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.npmjs.org%2Fdownloads%2Fpoint%2F2020-01-01%3A2030-01-01%2Fexpo-google-tag-manager&query=%24.downloads&label=expo-google-tag-manager&suffix=%20downloads&logo=npm&color=cb3837&style=flat-square)](https://www.npmjs.com/package/expo-google-tag-manager)
 [![GitHub followers](https://img.shields.io/github/followers/amerllica?label=followers&logo=github&style=flat-square)](https://github.com/amerllica?tab=followers)
 
 </div>
