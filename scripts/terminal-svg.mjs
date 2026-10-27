@@ -72,9 +72,6 @@ const render = () => {
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${WIDTH}" height="${height}" viewBox="0 0 ${WIDTH} ${height}" role="img" aria-label="Terminal: whoami prints Amer Lotfi Orimi, Senior Frontend Engineer">
   <style>
     :root { --bg:#1c1c1c; --bar:#262626; --line:#2f2f2f; --fg:#e6ffe9; --prompt:#00ff66; --title:#00ff66; --accent:#00ffb3; --muted:#8a9a8f; }
-    @media (prefers-color-scheme: light) {
-      :root { --bg:#f6f8fa; --bar:#eaeef2; --line:#d0d7de; --fg:#1f2328; --prompt:#0b7a3e; --title:#0b7a3e; --accent:#0969da; --muted:#57606a; }
-    }
     text { font-family: 'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size:${FONT_SIZE}px; fill:var(--fg); }
     .prompt { fill:var(--prompt); font-weight:700; }
     .title { fill:var(--title); font-weight:700; }

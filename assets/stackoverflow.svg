@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="560" height="170" viewBox="0 0 560 170" role="img" aria-label="Stack Overflow: 33247 reputation, 476 answers">
   <style>
     :root { --bg:#1c1c1c; --line:#2f2f2f; --fg:#e6ffe9; --muted:#8a9a8f; --accent:#00ff66; }
-    @media (prefers-color-scheme: light) { :root { --bg:#f6f8fa; --line:#d0d7de; --fg:#1f2328; --muted:#57606a; --accent:#0b7a3e; } }
     text { font-family: 'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; fill:var(--fg); }
     .head { font-size:14px; fill:var(--accent); font-weight:700; }
     .value { font-size:24px; font-weight:700; fill:var(--accent); }
