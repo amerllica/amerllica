@@ -1,0 +1,12 @@
+{
+  "name": "amerllica",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "readme:terminal": "node scripts/terminal-svg.mjs",
+    "readme:update": "node scripts/update-readme.mjs"
+  }
+}
