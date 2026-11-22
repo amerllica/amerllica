@@ -1,12 +1,14 @@
 <div align="center">
 
 <a href="https://amerllica.ir">
-  <img src="./assets/terminal.svg" alt="root@amerllica:~$ whoami → Amer Lotfi Orimi, Senior Frontend Engineer (React / React Native), Full-Stack with Node.js & NestJS" width="860">
+  <img src="./assets/terminal.svg" alt="root@amerllica:~$ whoami → Amer Lotfi Orimi, Senior Frontend Engineer, Senior React Native Engineer" width="860">
 </a>
 
 <br>
 
-**Senior Frontend Engineer (React / React Native) · Full-Stack with Node.js & NestJS · AI-powered engineering**
+**Senior Frontend Engineer | Senior React Native Engineer | Native Modules (Kotlin, Swift) | React, Next.js, TypeScript | Node.js, NestJS**
+
+Open to relocation with visa sponsorship, or remote work (UTC+3:30).
 
 I build fast web and mobile products, ship open-source React Native libraries, and answer questions on Stack Overflow when I should be sleeping.
 

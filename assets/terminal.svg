@@ -25,14 +25,14 @@
     <text x="186" y="66" textLength="54" lengthAdjust="spacingAndGlyphs" class="command" clip-path="url(#c0)">whoami</text>
   </g>
   <text x="24" y="90" textLength="144" lengthAdjust="spacingAndGlyphs" class="out title reveal" style="animation-delay:1.2799999999999998s">Amer Lotfi Orimi</text>
-  <text x="24" y="114" textLength="423" lengthAdjust="spacingAndGlyphs" class="out  reveal" style="animation-delay:1.4s">Senior Frontend Engineer · React / React Native</text>
-  <text x="24" y="138" textLength="513" lengthAdjust="spacingAndGlyphs" class="out  reveal" style="animation-delay:1.52s">Full-Stack with Node.js &amp; NestJS · AI-powered engineering</text>
+  <text x="24" y="114" textLength="495" lengthAdjust="spacingAndGlyphs" class="out  reveal" style="animation-delay:1.4s">Senior Frontend Engineer · Senior React Native Engineer</text>
+  <text x="24" y="138" textLength="693" lengthAdjust="spacingAndGlyphs" class="out  reveal" style="animation-delay:1.52s">Native Modules (Kotlin, Swift) · React, Next.js, TypeScript · Node.js, NestJS</text>
   <clipPath id="c4"><rect x="186" y="147" height="24" width="0" class="type" style="--w:117px;animation-delay:1.6400000000000001s;animation-duration:0.715s;animation-timing-function:steps(13)"/></clipPath>
   <g class="reveal" style="animation-delay:1.6400000000000001s">
     <text x="24" y="162" textLength="162" lengthAdjust="spacingAndGlyphs" class="prompt">root@amerllica:~$</text>
     <text x="186" y="162" textLength="117" lengthAdjust="spacingAndGlyphs" class="command" clip-path="url(#c4)">cat ~/now.txt</text>
   </g>
-  <text x="24" y="186" textLength="477" lengthAdjust="spacingAndGlyphs" class="out accent reveal" style="animation-delay:2.705s">Altex · Tehran, Iran · since 12/2025 · open to remote</text>
+  <text x="24" y="186" textLength="576" lengthAdjust="spacingAndGlyphs" class="out accent reveal" style="animation-delay:2.705s">Altex · Tehran · open to relocation (visa sponsorship) or remote</text>
   <clipPath id="c6"><rect x="186" y="195" height="24" width="0" class="type" style="--w:144px;animation-delay:2.825s;animation-duration:0.88s;animation-timing-function:steps(16)"/></clipPath>
   <g class="reveal" style="animation-delay:2.825s">
     <text x="24" y="210" textLength="162" lengthAdjust="spacingAndGlyphs" class="prompt">root@amerllica:~$</text>

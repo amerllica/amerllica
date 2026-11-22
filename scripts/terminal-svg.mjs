@@ -14,10 +14,10 @@ const PROMPT = 'root@amerllica:~$ ';
 const script = [
   { command: 'whoami' },
   { output: 'Amer Lotfi Orimi', tone: 'title' },
-  { output: 'Senior Frontend Engineer · React / React Native' },
-  { output: 'Full-Stack with Node.js & NestJS · AI-powered engineering' },
+  { output: 'Senior Frontend Engineer · Senior React Native Engineer' },
+  { output: 'Native Modules (Kotlin, Swift) · React, Next.js, TypeScript · Node.js, NestJS' },
   { command: 'cat ~/now.txt' },
-  { output: 'Altex · Tehran, Iran · since 12/2025 · open to remote', tone: 'accent' },
+  { output: 'Altex · Tehran · open to relocation (visa sponsorship) or remote', tone: 'accent' },
   { command: 'ls ~/open-source' },
   { output: 'rn-vlc-plyr  react-native-tinode  expo-google-tag-manager', tone: 'accent' },
   { command: 'curl -s stackoverflow.com/users/6877799 | jq .reputation' },
