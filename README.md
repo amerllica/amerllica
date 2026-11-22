@@ -13,7 +13,7 @@ Open to relocation with visa sponsorship, or remote work (UTC+3:30).
 I build fast web and mobile products, ship open-source React Native libraries, and answer questions on Stack Overflow when I should be sleeping.
 
 [![Website](https://img.shields.io/badge/amerllica.ir-00ff66?style=for-the-badge&logo=googlechrome&logoColor=1c1c1c)](https://amerllica.ir)
-[![Resume PDF](https://img.shields.io/badge/Resume-PDF-1c1c1c?style=for-the-badge&logo=adobeacrobatreader&logoColor=00ff66)](https://amerllica.ir/Amer_Lotfi-Orimi_Oct-2026.pdf)
+[![Resume PDF](https://img.shields.io/badge/Resume-PDF-1c1c1c?style=for-the-badge&logo=adobeacrobatreader&logoColor=00ff66)](https://amerllica.ir/Amer_Lotfi-Orimi_Nov-2026.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amerllica-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amerllica)
 [![Medium](https://img.shields.io/badge/Medium-@amerllica-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amerllica)
 
