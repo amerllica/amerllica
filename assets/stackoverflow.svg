@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="170" viewBox="0 0 560 170" role="img" aria-label="Stack Overflow: 33247 reputation, 476 answers">
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="170" viewBox="0 0 560 170" role="img" aria-label="Stack Overflow: 33237 reputation, 476 answers">
   <style>
     :root { --bg:#1c1c1c; --line:#2f2f2f; --fg:#e6ffe9; --muted:#8a9a8f; --accent:#00ff66; }
     text { font-family: 'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; fill:var(--fg); }
@@ -13,7 +13,7 @@
   <text x="48" y="34" class="head">stackoverflow.com/users/6877799</text>
   <g class="grow">
     
-  <text x="28" y="78" class="value">33,247</text>
+  <text x="28" y="78" class="value">33,237</text>
   <text x="28" y="100" class="label">reputation</text>
     
   <text x="170" y="78" class="value">476</text>
